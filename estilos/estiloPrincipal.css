@@ -131,7 +131,7 @@ footer {
 }
 
 
-@media (width: 450px) {
+@media (max-width: 450px) {
     body{
         margin: 0px;
         font-size: 14px;
