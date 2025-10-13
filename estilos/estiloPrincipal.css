@@ -131,6 +131,7 @@ footer {
 }
 
 
+@media (width: 500px) {
     body{
         margin: 0px;
         font-size: 14px;
